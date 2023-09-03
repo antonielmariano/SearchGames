@@ -1,0 +1,1 @@
+data class InfoGame (val info: InfoGameApiShark)

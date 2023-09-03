@@ -1,0 +1,1 @@
+data class Game (val title: String, val cover: String, val steamAppID: String,val description: String = "")
